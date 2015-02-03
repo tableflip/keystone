@@ -6,7 +6,7 @@ module.exports = {
 	code:             require('../../fields/types/code/CodeField'),
 	color:            require('../../fields/types/color/ColorField'),
 	date:             require('../../fields/types/date/DateField'),
-	datearray:        require('../../fields/types/date/DatearrayField'),
+	datearray:        require('../../fields/types/datearray/DatearrayField'),
 	datetime:         require('../../fields/types/datetime/DatetimeField'),
 	email:            require('../../fields/types/email/EmailField'),
 	embedly:          require('../../fields/types/embedly/EmbedlyField'),
