@@ -29,7 +29,7 @@ module.exports = React.createClass({
 	
 	valueChanged: function(e) {
 		// update picker with the new value
-		this.picker.setDate(e.target.value);
+		this.picker.toggleDate(e.target.value);
 	},
 
 	render: function() {
